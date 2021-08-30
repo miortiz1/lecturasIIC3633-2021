@@ -1,3 +1,4 @@
+# MATRIX FACTORIZATION TECHNIQIES FOR RECOMMENDER SYSTEMS
 La lectura comienza mencionando que los sistemas recomendadores mas populares se suelen dividir en  item based o user based y luego nos presenta un acercamiento distinto llamado "latent factor" que nos permute usar tanto usuarios como items.
 Luego se nos explica que una de las realizaciones son las que son basdas en una matriz de factorización, logrando escalabilidad y precision. En esta matriz cada item i se asocia a un vector q y cada usario a un verctor p donde su producto punto sería el rating estimado para ese usuario hacia ese item.
 Y finalmente se nos describen problemas de este algoritmo y maneras de resolverlo.
