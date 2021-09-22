@@ -20,3 +20,8 @@ no debiese ser un problema ya que estos datos debiesen ser privados, en la pract
 aunque parezca que los sistemas recomendadores nos hacen un favor, en la realidad suelen incentivar al consumo innecesario al recomendar cosas "perfectas" para nosotros, 
 pero que no las necesitabamos en un principio, ya que si las necesitasemos no sería necesaria una recomendación. Por esto creo que no vale la pena dar tanta informacion personal a
 estos sistemas.
+
+De todas formas creo que no sería un problema si de alguna manera se pudiese asegurar la completa confidencialidad de los datos, por lo que hay que estudiar mas acerca de esto.
+  
+  Por último, cabe recalcar que este texto fue sumamente interesante y facil de leer, ya que no usaba un lenguaje complicado y trataba sobre un tema que mejora enormemente 
+ los sistemas recomendadores y que no es trivial que a uno se le ocurra.
